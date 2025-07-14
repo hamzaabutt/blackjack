@@ -20,8 +20,8 @@ No external dependencies are required.
 
 ## Usage
 
-1. Clone the repository or download the `blackjack.py` script.
+1. Clone the repository or download the `BlackJack.py` script.
 2. Open a terminal and run the script:
 
 ```bash
-python blackjack.py
+python BlackJack.py
